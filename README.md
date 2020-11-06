@@ -5,4 +5,4 @@ Aqui você encontrará mais de 150 exercícios resolvidos do curso Python na Pr�
 
 # Requisitos:
 
-Foi utilizada a versão <a href="https://www.python.org/">Python 3.8.5.</a>
+Foi utilizada a versão <a href="https://www.python.org/">Python 3.9.0.</a>
